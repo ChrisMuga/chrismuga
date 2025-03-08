@@ -1,4 +1,4 @@
-# 👋 I'm Muga
+# 👋🏿 I'm Muga
 
 > *"I sleep and dream that life is all joy; I wake and see that life is all service."*
 
