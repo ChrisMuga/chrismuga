@@ -1,6 +1,6 @@
 # 👋 I'm Muga
 
-> *"Code is my canvas, and I’m painting something eternal."*
+> *"I sleep and dream that life is all joy; I wake and see that life is all service."*
 
 ### 🛠️ Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,4 +17,4 @@ const contacts = {
 ```
 
 
-> *"Whatever you do, work at it with all your heart." - Colossians 3:23*
+> *"And when I saw my devil, I found him serious, thorough, profound, solemn... Not by wrath, but by laughter, do I kill him."*
