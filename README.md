@@ -1,7 +1,6 @@
 # 👋🏿 I'm Muga
 
-> *Notice how each particle moves.*<br/>
-> *Notice how everyone has just arrived here from a journey.*
+> *To you, the daring venturers and adventurers, and whoever hath embarked with cunning sails upon frightful seas*
 
 <hr/>
 
@@ -18,6 +17,5 @@ const contacts = {
 ```
 <hr/>
 
-> *Notice how the stars vanish as the sun comes up,*<br/>
-> *and how all streams stream toward the ocean.*
+> *Upwards:—in spite of the spirit that drew it downwards, towards the abyss, the spirit of gravity, my devil and arch-enemy.*
 
