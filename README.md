@@ -1,6 +1,6 @@
 # 👋🏿 I'm Muga
 
-> *To you, the daring venturers and adventurers, and whoever hath embarked with cunning sails upon frightful seas*
+> *For it is only the finite that has wrought and suffered; the infinite lies stretched in smiling repose.*
 
 
 ```js
@@ -9,4 +9,3 @@ const contacts = {
     linkedIn: "https://www.linkedin.com/in/chris-muga-7a3013100/",
   }
 ```
-<hr/>
